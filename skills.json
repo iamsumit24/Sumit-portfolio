@@ -1,0 +1,65 @@
+[
+    {
+        "name": "Jenkins",
+        "icon": "./img/jenkins.png",
+        "level": "82"
+    },
+    {
+        "name": "Docker",
+        "icon": "https://img.icons8.com/fluency/48/000000/docker.png",
+        "level": "90"
+    },
+    {
+        "name": "AWS",
+        "icon": "https://img.icons8.com/color/48/000000/amazon-web-services.png",
+        "level": "80"
+    },
+    {
+        "name": "Ansible",
+        "icon": "./img/ansible.png"
+    },
+    {
+        "name": "Kubernetes",
+        "icon": "./img/kubernetes.png",
+        "level": "85"
+    },
+    {
+        "name": "Argo CD",
+        "icon": "./img/argocd.png",
+        "level": "80"
+    },
+    {
+        "name": "Redhat Linux",
+        "icon": "./img/redhat.png",
+        "level": "88"
+    },
+    {
+        "name": "Python",
+        "icon": "https://img.icons8.com/color/48/000000/python--v1.png",
+        "level": "75"
+    },
+    {
+        "name": "Git",
+        "icon": "https://img.icons8.com/color/48/000000/git.png",
+        "level": "95"
+    },
+    {
+        "name": "GitHub",
+        "icon": "https://img.icons8.com/glyph-neue/48/ffffff/github.png",
+        "level": "95"
+    },
+    {
+        "name": "Terraform",
+        "icon": "https://img.icons8.com/color/48/terraform.png",
+        "level": "78"
+    },
+    {
+        "name": "Bash",
+        "icon": "https://img.icons8.com/plasticine/48/bash.png",
+        "level": "85"
+    },
+    {
+        "name": "Monitoring",
+        "icon": "https://img.icons8.com/fluency/48/monitor--v2.png"
+    }
+]

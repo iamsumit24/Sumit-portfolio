@@ -1,0 +1,62 @@
+[
+    {
+        "name": "Real-Time Cricket Score Tracker",
+        "desc": "A Flask-based web app integrated with a live Cricbuzz API, containerized with Docker, deployed on Kubernetes, with CI using Jenkins and CD using ArgoCD.",
+        "image": "./img/dockercontroller.png",
+        "category": "DevOps",
+        "links": {
+            "view": "https://github.com/iamsumit24",
+            "code": "https://github.com/iamsumit24"
+        }
+    },
+    {
+        "name": "Cloud-Native Monitoring App",
+        "desc": "System metrics monitor built with Flask and psutil, containerized via Docker, pushed to AWS ECR, and deployed on Amazon EKS with Kubernetes.",
+        "image": "./img/car.png",
+        "category": "DevOps",
+        "links": {
+            "view": "https://github.com/iamsumit24",
+            "code": "https://github.com/iamsumit24/cloud-native-monitoring-app.git"
+        }
+    },
+    {
+        "name": "Ansible Cluster on Kubernetes",
+        "desc": "Custom Docker image-based Ansible cluster deployed on AWS EKS using Kubernetes Pods, including SSH setup and Ansible inventory testing.",
+        "image": "./img/awsmanager.jpg",
+        "category": "DevOps",
+        "links": {
+            "view": "https://github.com/iamsumit24",
+            "code": "https://github.com/iamsumit24/ansible-cluster-docker-k8s.git"
+        }
+    },
+    {
+        "name": "Docker Management Dashboard",
+        "desc": "Interactive Streamlit dashboard for managing Docker containers with basic functionality like start/stop, inspect, remove, and logs.",
+        "image": "./img/distancefromcamera.jpg",
+        "category": "Python",
+        "links": {
+            "view": "https://github.com/iamsumit24",
+            "code": "https://github.com/iamsumit24"
+        }
+    },
+    {
+        "name": "Menu-Based AWS Automation WebApp",
+        "desc": "A Python CGI-based menu-driven app hosted on Apache using HTML/JS, integrated with Boto3 for managing AWS resources dynamically.",
+        "image": "./img/scapingtool.jpg",
+        "category": "Cloud",
+        "links": {
+            "view": "https://github.com/iamsumit24",
+            "code": "https://github.com/iamsumit24/MENU-PROJECT1.git"
+        }
+    },
+    {
+        "name": "Automating Multi-Container Environments with Docker Compose",
+        "desc": "Multi-container Flask app deployed using Docker Compose for simplified development and orchestration.",
+        "image": "./img/flask.png",
+        "category": "Docker",
+        "links": {
+            "view": "https://medium.com/@sumittiwari44440/automating-multi-container-environments-with-docker-compose-5db61c65368f",
+            "code": "https://github.com/iamsumit24"
+        }
+    }
+]
