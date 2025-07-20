@@ -70,12 +70,13 @@ document.addEventListener('visibilitychange',
 
 // <!-- typed js effect starts -->
 var typed = new Typed(".typing-text", {
-    strings: ["Cloud Engineer", "DevOps Engineer" , "CI/CD SPECILIST"],
+    strings: ["Cloud Engineer", "DevOps Engineer", "CI/CD Specialist"],
     loop: true,
     typeSpeed: 50,
     backSpeed: 25,
     backDelay: 500,
 });
+
 // <!-- typed js effect ends -->
 
 async function fetchData(type = "skills") {
